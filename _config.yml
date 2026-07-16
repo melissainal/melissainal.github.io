@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Imaging Scientist | Cellular Biologist | PhD"
+title                    : "Imaging Scientist | Cellular Biologist"
 title_separator          : "-"
 name                     : &name "Melissa Inal"
 description              : &description "Imaging Scientist | Cellular Biologist | Neurodevelopment and Neurodegeneration Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Melissa Inal, PhD"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Imaging scientist with 7+ years of experience in fluorescence light microscopy, specializing in super-resolution imaging pipelines in the cellular context of neurodevelopment."
   location         : "San Diego, California"
-  employer         : "Freelance Consulting"
+  employer         : #"Freelance Consulting"
   uri              : # URL
   email            : "melissaa.inal@gmail.com" 
 
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Melissa-Inal-2"
+  researchgate     : #"https://www.researchgate.net/profile/Melissa-Inal-2"
   scopus           : # URL
   zotero           : # URL
 
