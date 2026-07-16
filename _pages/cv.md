@@ -69,11 +69,13 @@ Awards and honors
 
 Service and leadership
 ======
-* President, Cellular Biology Graduate Student Association, University of Georgia (August 2022 – July 2023)
-* Co-President, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2022-July 2023)
-* Graduate Student Representative for Department of Cellular Biology, UGA Graduate Student Association, University of Georgia (August 2021-May 2022)
-* Social Chair, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2021-May 2022)
-* Social Chair, Cellular Biology Graduate Student Association, University of Georgia (August 2020- May 2021)
-* Mentor (2), Kamiyama Lab, University of Georgia (August 2021-May 2022)
-* Co-Mentor (1), Nanotechnology and Biomedicine REU at University of Georgia (July 2021-August 2021)
-* Mentor (1), UGA Young Dawgs Program, Athens, GA (August 2018- May 2019)
+* **President**, Cellular Biology Graduate Student Association, University of Georgia (August 2022 – July 2023)
+* **Co-President**, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2022-July 2023)
+* **Graduate Student Representative** for Department of Cellular Biology, UGA Graduate Student Association, University of Georgia (August 2021-May 2022)
+* **Social Chair**, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2021-May 2022)
+* **Social Chair**, Cellular Biology Graduate Student Association, University of Georgia (August 2020- May 2021)
+* **Mentor (2)**, Kamiyama Lab, University of Georgia (August 2021-May 2022)
+* **Co-Mentor (1)**, Nanotechnology and Biomedicine REU at University of Georgia (July 2021-August 2021)
+* **Mentor (1)**, UGA Young Dawgs Program, Athens, GA (August 2018-May 2019)
+* **Tutor**, Mind Blowers with Boys and Girls Club, Athens, GA (August 2017-May 2018)
+* **Tutor**, East Athens WIT After School Program, Athens, GA (August 2015-December 2015)
