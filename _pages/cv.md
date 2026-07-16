@@ -11,31 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cellular Biology, University of Georgia, 2025
+* B.S. in Biochemistry and molecular Biology, University of Georgia, 2018
+* Minor in Global Health, University of Georgia, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2025: Doctoral Researcher
+  * University of Georgia
+  * Duties includes: Manage research projects and train essential support personnel for lab procedures. Develop novel imaging-based pipelines, produce and analyze biological data.
+  * Supervisor: Dr. Daichi Kamiyama
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Research Technician
+  * University of Georgia
+  * Duties included: Development and standardization of super-resolution imaging in neurons, maintenance of lab stock data, lab notekeeping
+  * Supervisor: Dr. Daichi Kamiyama
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017: Research Assistant
+  * University of Georgia
+  * Duties included: Development of tissue clearing pipeline (CLARITY), microsurgical extraction of mouse myofibers and primary satellite cell culture
+  * Supervisor: Dr. Hang Yin
   
 Skills
 ======
 * Skill 1
-* Skill 2
+* Skill 2 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -59,6 +59,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards and honors
+======
+* Student Excellence Award, Feccheimer & Furukawa (2024)
+* Outstanding Teaching Assistant, Top 10% (2022)
+* UGA Conference Travel Grant (2022)
+* Dean’s List (2014-2018)
+* Zell Miller Scholarship (2014-2018)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, Cellular Biology Graduate Student Association, University of Georgia (August 2022 – July 2023)
+* Co-President, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2022-July 2023)
+* Graduate Student Representative for Department of Cellular Biology, UGA Graduate Student Association, University of Georgia (August 2021-May 2022)
+* Social Chair, Developmental Biology Alliance Graduate Student Association, University of Georgia (August 2021-May 2022)
+* Social Chair, Cellular Biology Graduate Student Association, University of Georgia (August 2020- May 2021)
+* Mentor (2), Kamiyama Lab, University of Georgia (August 2021-May 2022)
+* Co-Mentor (1), Nanotechnology and Biomedicine REU at University of Georgia (July 2021-August 2021)
+* Mentor (1), UGA Young Dawgs Program, Athens, GA (August 2018- May 2019)
