@@ -32,14 +32,15 @@ Work experience
   * Duties included: Development of tissue clearing pipeline (CLARITY), microsurgical extraction of mouse myofibers and primary satellite cell culture
   * Supervisor: Dr. Hang Yin
   
-Skills
+Skills & Technical Expertise
 ======
-* Skill 1
-* Skill 2 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Assay Development & Optimization**: Cell-based & functional assay design, reporter validation, flow cytometry/FACS characterization, transfection, and assay optimization.
+* **Advanced Light & Super-Resolution Microscopy**: Hands-on expertise with STORM, PALM, SIM, confocal, and live-cell imaging; custom microscope design, alignment, and optimization.
+* **Complex Sample Prep & Tissue Processing**: Development of tissue clearing pipelines (e.g., CLARITY) for 3D volumetric deep-tissue analysis; cell/tissue culture of mammalian and insect lines (HeLa, HEK293, U2OS, S2) and primary cells (myofibers, satellite cells).
+* **High-Fidelity Immunofluorescence (IF)**: Optimization of sample prep, signal preservation, and signal-to-noise ratio (SNR) in thick tissue samples (20–50 µm) and cell culture.
+* **Bioimage Informatics & Computational Analysis**: Quantitative image processing and data analysis using ImageJ/Fiji, Python, and R.
+* **Standardization & Documentation**: Experience authoring standardized SOPs, publishing peer-reviewed experimental protocols, and managing reproducible data records.
+* **Cross-Functional Collaboration & Leadership**: Interdisciplinary teamwork (partnering with optics engineers), student mentorship, and graduate association leadership.
 
 Publications
 ======
