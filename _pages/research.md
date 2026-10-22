@@ -25,6 +25,16 @@ Using orthogonal binary expression systems (**Gal4/UAS** and **LexA/LexAop**) to
 
 These findings demonstrated that muscle filopodia possess distinct compartmentalization and functional specialization, playing simultaneous but separate roles in axon guidance and synaptogenesis during normal circuit wiring.
 
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/research/working-model-myopodia.png" alt="Working model schematic of muscle filopodia in circuit development" style="max-width: 90%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;"><strong>Figure 1. Working Model of Muscle Filopodia Function in Circuit Development (Unpublished Schematic).</strong> In wild-type embryos, anterior muscle filopodia (M12) restrict motor axon (MN12) interaction domains, while posterior filopodia refine the defasciculation choice point of the SNa nerve near the muscle boundary. In filopodia-knockdown embryos, these targeting constraints are lost (adapted from dissertation Chapter 6).</figcaption>
+</figure>
+
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/research/nmj-filopodia-sim-comparison.png" alt="Morphological characterization of NMJ and non-NMJ filopodia using 2-color SIM" style="max-width: 85%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;"><strong>Figure 2. Two-Color Structured Illumination Microscopy (SIM) of Filopodial Populations.</strong> Resolving distinctive morphological interactions, lengths, and widths between exploring neuronal growth cones and muscle filopodia at synaptic vs. non-synaptic sites (from dissertation Chapter 5).</figcaption>
+</figure>
+
 *Relevant Publications & Talks:*
 * **Inal, M. A., & Kamiyama, D.** (2026). Selective muscle imaging reveals widespread myopodia clustering during *Drosophila* neuromuscular development. *Developmental Biology*.
 * **Inal, M. A.**, Li, S., Kner, P., & Kamiyama, D. *Muscle Filopodia Relay Motor Axon to Target Muscle Field for Functional Synapse Formation.* ASCB 2024 (Selected Oral Presentation).
@@ -50,6 +60,21 @@ Filopodia typically measure 100–200 nm in width—well below the diffraction l
 To address these challenges, our work established two complementary imaging methodologies:
 1. **Retrograde Lipophilic Dye Labeling:** Standardized single- and multi-color lipophilic fluorescent dye labeling protocols in embryonic motoneurons, enabling high-resolution tracing of fine cellular processes including neurites, growth cones, and individual filopodia.
 2. **Deep-Tissue SMLM / STORM:** In collaboration with optical engineers, developed and standardized a Stochastic Optical Reconstruction Microscopy pipeline for in vivo and in vitro neurons. By optimizing photoblinking buffer conditions and sample mounting for 20–50 µm thick specimens, we achieved **20-nm lateral resolution** with a 3-fold improvement in signal sensitivity. This pipeline uncovered previously hidden ultrastructural features, including a characteristic **"beads-on-a-string"** nanoscale filopodial morphology.
+
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/research/storm-super-resolution-panel.png" alt="Conventional wide-field vs. super-resolution STORM imaging of motor neurons" style="max-width: 85%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;"><strong>Figure 3. Super-Resolution STORM vs. Wide-Field Imaging (Published in <em>Current Protocols</em>, 2021).</strong> Resolving motoneuron axonal membranes and sub-diffraction structures in dissected embryos at ~20-nm lateral resolution compared to conventional wide-field fluorescence (Inal et al., 2021).</figcaption>
+</figure>
+
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/research/storm-m12-nmj-ultrastructure.png" alt="Two-color STORM image of M12 neuromuscular junction" style="max-width: 75%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;"><strong>Figure 4. Two-Color STORM Nanoscale Filopodial Ultrastructure.</strong> High-precision dual-color localization of motoneuron (anti-HRP, magenta) and muscle (anti-GFP, green) membranes reveals characteristic fusiform "beads-on-a-string" nanodomains at active interaction sites (from dissertation Supplementary Figure 6.2).</figcaption>
+</figure>
+
+<figure style="margin: 24px 0; text-align: center;">
+  <img src="/images/research/retrograde-tracing-panel.png" alt="Retrograde lipophilic dye labeling and muscle wall schematic" style="max-width: 90%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;"><strong>Figure 5. Retrograde Fluorescent Dye Labeling of Motor Neurons (Published in <em>JoVE</em>, 2020).</strong> (A) Multi-color lipophilic dye retrograde tracing of specific embryonic motor neurons (aCC, RP3) innervating distinct target muscles (DiO, DiD). (B) Schematic diagram of body wall muscle architecture and dye application sites (Inal et al., 2020).</figcaption>
+</figure>
 
 *Relevant Publications & Protocols:*
 * **Inal, M. A.**, Bui, K. C., Marar, A., Li, S., Kner, P., & Kamiyama, D. (2021). Imaging of In Vitro and In Vivo Neurons in *Drosophila* Using Stochastic Optical Reconstruction Microscopy. *Current Protocols*, 1(7), e203.
