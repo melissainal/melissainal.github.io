@@ -18,7 +18,13 @@ I earned my Ph.D. in Cellular Biology from the University of Georgia (2025) in t
 * **Synaptogenesis & Sub-cellular Protein Topography:** Mapping the spatial distribution and nano-organization of pre- and post-synaptic scaffold proteins using split-GFP complementation and high-fidelity immunofluorescence in intact organisms.
 * **Quantitative Bioimage Informatics:** Developing automated image processing workflows (ImageJ/Fiji, Python, R) to extract high-content spatial metrics from complex volumetric datasets.
 
-👉 *[Learn more about my doctoral work and future research vision on my Research page →](/research/)*
+### Academic & Professional Interests
+My long-term academic goal is to build an independent research program investigating how local molecular organization supports distinct but coordinated functions across specialized cellular compartments in the nervous system. I am actively pursuing **postdoctoral research opportunities** focused on:
+* **Glial & Synaptic Nanodomains:** Dissecting how nanoscale assemblies of cell adhesion molecules (such as Neurexin-1) orchestrate local signaling hubs at specialized astrocytic-synaptic and perivascular endfeet interfaces.
+* **Next-Generation Bioimaging Technologies:** Pioneering integrative optical pipelines—combining multiplexed expansion microscopy (pan-ExM-t), single-molecule imaging, and live biosensors (iGluSnFR, GCaMP) with computational modeling of cellular geometry.
+* **Academic Teaching & Mentorship:** Dedication to classroom instruction in cell biology and neuroscience, continuing to mentor undergraduate and graduate trainees in rigorous experimental design, microscopy, and quantitative data analysis.
+
+👉 *[Learn more about my doctoral work and research vision on my Research page →](/research/)*
 
 ### Leadership, Mentorship & Community Engagement
 Beyond bench research and microscopy development, I am deeply committed to scientific community building, student mentorship, and broadening access to STEM. Throughout my doctoral training at the University of Georgia, I served as President of the Cellular Biology Graduate Student Association and Co-President of the Developmental Biology Alliance. In these roles, I represented graduate students in departmental leadership town halls, organized annual symposia and research retreats with external keynote speakers, secured departmental sponsorship for student professional development, and launched wellness and collaborative initiatives such as student "Science Talk Spaces" and data visualization workshops.
