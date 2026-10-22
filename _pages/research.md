@@ -9,27 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-My research investigates the cell biological and biophysical principles that govern neural circuit assembly, axon guidance, and synaptogenesis. Using *Drosophila melanogaster* as a model genetic system, my doctoral work in the laboratory of [Dr. Daichi Kamiyama](https://research.franklin.uga.edu/kamiyama/) combined in vivo super-resolution microscopy (STORM/SMLM), split-GFP protein tagging, and quantitative bioimage informatics to characterize how fine cellular protrusions guide precise synaptic partner recognition.
+My research explores a fundamental question in neurobiology: **how does local molecular organization dictate distinct cellular compartments to perform specialized functions in the nervous system?** 
+
+During my doctoral research in Cellular Biology at the University of Georgia in the laboratory of [Dr. Daichi Kamiyama](https://research.franklin.uga.edu/kamiyama/), I investigated the cellular and molecular mechanisms that govern neural circuit assembly using the *Drosophila melanogaster* embryonic neuromuscular junction (NMJ). By integrating high-resolution live imaging, super-resolution microscopy (SMLM/STORM), and genetic labeling tools, my work uncovered novel principles of contact-mediated communication between motoneurons and postsynaptic target muscles. Building on these findings, my research vision connects the nanometer-scale assembly and remodeling of subcellular compartments to synaptic communication, neural homeostasis, and neurological health.
 
 ---
 
-## 1. Non-Synaptic Muscle Filopodia (Myopodia) Guide Axon Targeting
+## 1. Spatially Distinct Muscle Filopodia in Axon Guidance vs. Synapse Formation
 
-During embryonic development, motoneurons traverse complex cellular terrain to find and innervate specific target muscles. While previous dogma focused predominantly on growth cone-autonomous guidance cues and target-derived secreted factors, the active role of target muscle morphology in steering axons remained poorly understood.
+During embryonic development, motoneurons navigate complex cellular terrain to find and innervate specific target muscles. While previous studies focused heavily on presynaptic growth cone filopodia, the role of postsynaptic muscle filopodia (myopodia) remained largely unexplored.
 
-Using selective genetic labeling (Gal4-UAS) and lipophilic membrane dyes, we uncovered widespread clustering of dynamic, non-synaptic filopodia—termed **myopodia**—across the entire body wall musculature (30 individual muscles per hemisegment). Rather than existing merely at future synaptic sites, these myopodia form distinct spatial hotspots along the muscle edges directly aligning with motor axon trajectories. Through live confocal imaging and genetic perturbation, we demonstrated that muscle filopodia act as active guideposts: they establish transient, reciprocal adhesive contacts with advancing motor growth cones, physically relaying axons into their correct target muscle fields for functional synapse formation.
+Using orthogonal binary expression systems (**Gal4/UAS** and **LexA/LexAop**) to conduct two-color live imaging of individual NMJs in intact embryos, we discovered that individual muscles extend spatially separated populations of filopodia that interact with distinct motoneurons:
+* **Synaptic Filopodial Clusters:** Form at the future neuromuscular junction and transition directly into functional, mature synapses.
+* **Non-Synaptic Guidance Clusters:** Form along the muscle edges and contact navigating motor axons that do *not* form synapses with that muscle, serving as active, transient guideposts to steer axons into their proper muscle fields.
+
+These findings demonstrated that muscle filopodia possess distinct compartmentalization and functional specialization, playing simultaneous but separate roles in axon guidance and synaptogenesis during normal circuit wiring.
 
 *Relevant Publications & Talks:*
 * **Inal, M. A., & Kamiyama, D.** (2026). Selective muscle imaging reveals widespread myopodia clustering during *Drosophila* neuromuscular development. *Developmental Biology*.
-* **Inal, M. A.**, Li, S., Kner, P., & Kamiyama, D. *Muscle Filopodia Relay Motor Axon to Target Muscle Field for Functional Synapse Formation.* ASCB 2024 (Selected Talk).
+* **Inal, M. A.**, Li, S., Kner, P., & Kamiyama, D. *Muscle Filopodia Relay Motor Axon to Target Muscle Field for Functional Synapse Formation.* ASCB 2024 (Selected Oral Presentation).
 
 ---
 
-## 2. In Situ & In Vivo Super-Resolution Imaging of Neuromuscular Architecture
+## 2. Molecular Differentiation of Subcellular Filopodial Interfaces
 
-Filopodia typically measure 100–200 nm in diameter—well below the ~250 nm diffraction limit of conventional light microscopy. Resolving their sub-micron morphology and molecular composition in intact organisms requires advanced optical strategies capable of deep-tissue localization.
+How does a single muscle cell coordinate two distinct filopodial populations with opposing developmental fates? To uncover the molecular differentiators of these dynamic sub-structures, we investigated the localization and organization of candidate synaptic and adhesion proteins.
 
-In collaboration with optical engineers, we developed and standardized a first-of-its-kind in vivo and in situ Single Molecule Localization Microscopy (**SMLM / STORM**) pipeline tailored for embryonic motor neurons and neuromuscular junctions. By optimizing photoblinking buffer conditions, mounting media, and specialized sample preparation in 20–50 µm thick specimens, we achieved **20-nm lateral resolution** with a 3-fold improvement in signal retention. This pipeline resolved previously undetectable ultrastructural features of muscle filopodia, uncovering a characteristic **"beads-on-a-string"** nanoscale morphology and revealing the dynamic structural remodeling of the actin cytoskeleton during partner recognition.
+To overcome antibody penetration limitations in deep embryonic tissue, we utilized the **split-GFP reconstitution system** for cell-type-specific endogenous protein labeling. We found that the cell adhesion molecule **Fas2 / NCAM** (as well as N-Cadherin) is highly enriched across both filopodial clusters, suggesting that similar core molecular modules are recruited to distinct cellular sites, where specialized multiprotein complexes and local geometry dictate functional divergence. This work highlighted how local molecular programs interact with surrounding cellular compartments to drive sub-cellular specialization during synaptogenesis.
+
+*Relevant Publications:*
+* **Inal, M. A.**, Banzai, K., Kamiyama, R., & Kamiyama, D. (2024). Chapter Eight - Cell-type-specific labeling of endogenous proteins using the split GFP system in *Drosophila*. *Methods in Cell Biology*, 200, 137–150.
+* **Inal, M. A.** (2025). *High-Resolution Characterization of Filopodial Interactions Guiding Neuromuscular Circuit Development in Drosophila*. Ph.D. Dissertation, University of Georgia.
+
+---
+
+## 3. Optical Pipeline Development: High-Resolution Retrograde Tracing & In Vivo SMLM/STORM
+
+Filopodia typically measure 100–200 nm in width—well below the diffraction limit of conventional light microscopy (~250 nm). Resolving their fine ultrastructure and molecular architecture in living animals requires advanced optical strategies tailored for deep, light-scattering tissues.
+
+To address these challenges, our work established two complementary imaging methodologies:
+1. **Retrograde Lipophilic Dye Labeling:** Standardized single- and multi-color lipophilic fluorescent dye labeling protocols in embryonic motoneurons, enabling high-resolution tracing of fine cellular processes including neurites, growth cones, and individual filopodia.
+2. **Deep-Tissue SMLM / STORM:** In collaboration with optical engineers, developed and standardized a Stochastic Optical Reconstruction Microscopy pipeline for in vivo and in vitro neurons. By optimizing photoblinking buffer conditions and sample mounting for 20–50 µm thick specimens, we achieved **20-nm lateral resolution** with a 3-fold improvement in signal sensitivity. This pipeline uncovered previously hidden ultrastructural features, including a characteristic **"beads-on-a-string"** nanoscale filopodial morphology.
 
 *Relevant Publications & Protocols:*
 * **Inal, M. A.**, Bui, K. C., Marar, A., Li, S., Kner, P., & Kamiyama, D. (2021). Imaging of In Vitro and In Vivo Neurons in *Drosophila* Using Stochastic Optical Reconstruction Microscopy. *Current Protocols*, 1(7), e203.
@@ -37,12 +57,15 @@ In collaboration with optical engineers, we developed and standardized a first-o
 
 ---
 
-## 3. Molecular Dissection of Filopodial Adhesion & Synaptic Specificity
+## Future Directions: Nanoscale Molecular Organization in Neural Specialization
 
-To determine the molecular machinery mediating filopodia-axon interactions, we investigated the subcellular localization of synaptic adhesion molecules and scaffolding proteins during circuit assembly. 
+Building on my doctoral discoveries, my future research program investigates how local molecular organization supports the distinct but coordinated functions of cells throughout the nervous system.
 
-To circumvent antibody penetration artifacts in thick embryonic tissues, we utilized the split-GFP reconstitution system for cell-type-specific labeling of endogenous proteins. After systematically screening 85 Gal4-driver lines to isolate individual muscle subsets, we mapped the precise localization patterns of more than 15 candidate synaptic and adhesion proteins. This analysis identified **Fasciclin 2 (Fas2)** and **N-Cadherin (Ncad)** as essential filopodial adhesion markers concentrated at initial filopodial contact sites. These findings demonstrate that cell adhesion molecules cluster specifically at filopodial contact interfaces, stabilizing exploratory interactions and triggering the transition from transient contact to stable, functional synaptogenesis.
+A central interest lies in **astrocytes**, whose highly ramified processes simultaneously engage neuronal synapses, blood vessels, and neighboring glia through distinct subcellular interfaces. Within these interfaces, I am investigating how nanoscale molecular assemblies—such as **Neurexin-1 (Nrxn1)** and associated cell adhesion complexes—are organized and remodeled during development to sustain divergent local functions (e.g., glutamate clearance and ion homeostasis at synapses versus metabolic support and water flux at perivascular endfeet).
 
-*Relevant Publications:*
-* **Inal, M. A.**, Banzai, K., Kamiyama, R., & Kamiyama, D. (2024). Cell-type-specific Labeling of Endogenous Proteins Using the Split GFP System in *Drosophila*. *Methods in Cell Biology*, 200, 137–150.
-* **Inal, M. A.** (2025). *High-Resolution Characterization of Filopodial Interactions Guiding Neuromuscular Circuit Development in Drosophila*. Ph.D. Dissertation, University of Georgia.
+To bridge spatial resolution and dynamic temporal signaling, I aim to combine:
+* **Multiplexed Super-Resolution Imaging** (e.g., pan-ExM-t) to map nanoscale macromolecular architectures;
+* **Live Biosensors** (such as iGluSnFR for glutamate handling and GCaMP for calcium dynamics) in intact tissue;
+* **Computational & Geometric Modeling** to integrate dynamic intracellular events with sub-micron structural geometries.
+
+*Long-term Goal:* To build an independent academic research group dedicated to understanding how the assembly, maintenance, and disruption of nanoscale subcellular specializations regulate neural circuit communication and contribute to neurological disease.
