@@ -11,7 +11,7 @@ redirect_from:
 
 My research explores a fundamental question in neurobiology: **how does local molecular organization dictate distinct cellular compartments to perform specialized functions in the nervous system?** 
 
-During my doctoral research in Cellular Biology at the University of Georgia in the laboratory of [Dr. Daichi Kamiyama](https://research.franklin.uga.edu/kamiyama/), I investigated the cellular and molecular mechanisms that govern neural circuit assembly using the *Drosophila melanogaster* embryonic neuromuscular junction (NMJ). By integrating high-resolution live imaging, super-resolution microscopy (SMLM/STORM), and genetic labeling tools, my work uncovered novel principles of contact-mediated communication between motoneurons and postsynaptic target muscles. Building on these findings, my research vision connects the nanometer-scale assembly and remodeling of subcellular compartments to synaptic communication, neural homeostasis, and neurological health.
+During my doctoral research in Cellular Biology at the University of Georgia in the laboratory of Dr. Daichi Kamiyama, I investigated the cellular and molecular mechanisms that govern neural circuit assembly using the *Drosophila melanogaster* embryonic neuromuscular junction (NMJ). By integrating high-resolution live imaging, super-resolution microscopy (SMLM/STORM), and genetic labeling tools, my work uncovered novel principles of contact-mediated communication between motoneurons and postsynaptic target muscles. Building on these findings, my research vision connects the nanometer-scale assembly and remodeling of subcellular compartments to synaptic communication, neural homeostasis, and neurological health.
 
 ---
 
