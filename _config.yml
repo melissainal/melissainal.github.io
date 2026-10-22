@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Imaging Scientist | Cellular Biologist"
+title                    : "Melissa Inal, Ph.D. | Cellular Biology & Neuroscience"
 title_separator          : "-"
 name                     : &name "Melissa Inal"
-description              : &description "Imaging Scientist | Cellular Biologist | Neurodevelopment and Neurodegeneration Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Cellular Biologist and Neuroscientist investigating neuromuscular circuit development and synaptic architecture using advanced super-resolution microscopy."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://melissainal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Melissa Inal, PhD"
   pronouns         : "she/her"  
-  bio              : "Imaging scientist with 7+ years of experience in fluorescence light microscopy, specializing in super-resolution imaging pipelines in the cellular context of neurodevelopment."
+  bio              : "Cellular biologist & neuroscientist investigating neural circuit assembly and synaptic architecture using super-resolution microscopy (SMLM/STORM) and genetic model systems."
   location         : "San Diego, California"
   employer         : #"Freelance Consulting"
   uri              : # URL
